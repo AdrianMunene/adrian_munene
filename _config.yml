@@ -2,6 +2,6 @@
 #plugins:
 #  - jekyll-remote-theme
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: "Gearbox Academy Documentation"
 nav_order: 1
