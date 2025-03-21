@@ -1,7 +1,7 @@
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-remote-theme
+#remote_theme: pmarsceill/just-the-docs
+#plugins:
+#  - jekyll-remote-theme
 
-#theme: jekyll-theme-cayman
-#title: "Gearbox Academy Documentation"
+theme: jekyll-theme-cayman
+title: "Gearbox Academy Documentation"
 nav_order: 1
