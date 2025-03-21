@@ -1,3 +1,3 @@
-- [Home](index.md)
+[Home](index.md)
 
 # HTML AND CSS
